@@ -12,11 +12,11 @@ This repository aims to:
 
 ### 1. 🎮 Tic-Tac-Toe
 Build a classic Tic-Tac-Toe game.
-[View Challenge Details](./tic-tac-toe.md)
+[View Challenge Details](./challenges/tic-tac-toe.md)
 
 ### 2. 📱 Simple CoinCap Clone
 Build a simplified version of the CoinCap Clone app.
-[View Challenge Details](./simple-coin-cap-clone.md)
+[View Challenge Details](./challenges/simple-coin-cap-clone.md)
 
 [More challenges coming soon...]
 
