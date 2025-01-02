@@ -14,6 +14,10 @@ This repository aims to:
 Build a classic Tic-Tac-Toe game.
 [View Challenge Details](./tic-tac-toe.md)
 
+### 2. 📱 Simple CoinCap Clone
+Build a simplified version of the CoinCap Clone app.
+[View Challenge Details](./simple-coin-cap-clone.md)
+
 [More challenges coming soon...]
 
 ## Sponsors
